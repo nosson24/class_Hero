@@ -40,7 +40,7 @@ class _ProfilePageState extends State<ProfilePage> {
   }
 
   Widget _name() {
-    return const Text("Shoto Todoroki", style: MainFontstyle.mainFontName);
+    return const Text("Shoto Todoroki 555", style: MainFontstyle.mainFontName);
   }
 
   Widget _status() {
