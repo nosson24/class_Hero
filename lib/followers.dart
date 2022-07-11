@@ -55,7 +55,7 @@ class _FollowersPageState extends State<FollowersPage> {
             ),
             HeroCard(
               imgPath: 'assets/imageProfile2.png',
-              name: 'All Might',
+              name: 'All Mightx',
               heroClass: 'Heroics Teacher',
             ),
             HeroCard(
