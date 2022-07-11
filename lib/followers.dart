@@ -50,12 +50,12 @@ class _FollowersPageState extends State<FollowersPage> {
           children: const [
             HeroCard(
               imgPath: 'assets/imageProfile3.png',
-              name: 'Nezux',
+              name: 'Nezu',
               heroClass: 'Princial',
             ),
             HeroCard(
               imgPath: 'assets/imageProfile2.png',
-              name: 'All Might',
+              name: 'All Mightx',
               heroClass: 'Heroics Teacher',
             ),
             HeroCard(
