@@ -18,7 +18,7 @@ class AddTask extends StatefulWidget {
 class _AddTaskState extends State<AddTask> {
   late final TextEditingController _editTopic;
   late final TextEditingController _editDescription;
-  String time = ("วันที่ : ") +
+  String time = ("Date : ") +
       DateFormat("yyyy/MM/dd kk:mm").format(DateTime.now()).toString();
 
   @override
